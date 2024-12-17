@@ -1,0 +1,17 @@
+C:\Users\user1\Desktop\לימודים\פרקטיקוד\html_serializer\html_serializer\bin\Debug\net6.0\html_serializer.exe
+C:\Users\user1\Desktop\לימודים\פרקטיקוד\html_serializer\html_serializer\bin\Debug\net6.0\html_serializer.deps.json
+C:\Users\user1\Desktop\לימודים\פרקטיקוד\html_serializer\html_serializer\bin\Debug\net6.0\html_serializer.runtimeconfig.json
+C:\Users\user1\Desktop\לימודים\פרקטיקוד\html_serializer\html_serializer\bin\Debug\net6.0\html_serializer.dll
+C:\Users\user1\Desktop\לימודים\פרקטיקוד\html_serializer\html_serializer\bin\Debug\net6.0\html_serializer.pdb
+C:\Users\user1\Desktop\לימודים\פרקטיקוד\html_serializer\html_serializer\obj\Debug\net6.0\html_serializer.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\לימודים\פרקטיקוד\html_serializer\html_serializer\obj\Debug\net6.0\html_serializer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\לימודים\פרקטיקוד\html_serializer\html_serializer\obj\Debug\net6.0\html_serializer.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\לימודים\פרקטיקוד\html_serializer\html_serializer\obj\Debug\net6.0\html_serializer.AssemblyInfo.cs
+C:\Users\user1\Desktop\לימודים\פרקטיקוד\html_serializer\html_serializer\obj\Debug\net6.0\html_serializer.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\לימודים\פרקטיקוד\html_serializer\html_serializer\obj\Debug\net6.0\html_serializer.dll
+C:\Users\user1\Desktop\לימודים\פרקטיקוד\html_serializer\html_serializer\obj\Debug\net6.0\refint\html_serializer.dll
+C:\Users\user1\Desktop\לימודים\פרקטיקוד\html_serializer\html_serializer\obj\Debug\net6.0\html_serializer.pdb
+C:\Users\user1\Desktop\לימודים\פרקטיקוד\html_serializer\html_serializer\obj\Debug\net6.0\html_serializer.genruntimeconfig.cache
+C:\Users\user1\Desktop\לימודים\פרקטיקוד\html_serializer\html_serializer\obj\Debug\net6.0\ref\html_serializer.dll
+C:\Users\user1\Desktop\לימודים\פרקטיקוד\html_serializer\html_serializer\bin\Debug\net6.0\files\HtmlTags.json
+C:\Users\user1\Desktop\לימודים\פרקטיקוד\html_serializer\html_serializer\bin\Debug\net6.0\files\HtmlVoidTags.json
